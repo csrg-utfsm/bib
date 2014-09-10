@@ -7,7 +7,6 @@ The database files here contain:
  * theses.bib:   Theses, memorias, ... from UTFSM
  * reports.bib:  Technical reports from UTFSM
  * licenses.bib: (Open source) licenses
- * url.bib:      Entries that have only a reference as a webpage. Please
-              suggest alternatives on paper!
+ * url.bib:      Entries that have only a reference as a webpage. 
 
 
