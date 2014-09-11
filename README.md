@@ -1,12 +1,12 @@
-Common bibliography for CSRG
-============================
+CSRG Bibliography
+==================
 
-The database files here contain:
- * refs.bib:     External references
- * csrg.bib:     Publications by CSRG members
- * theses.bib:   Theses, memorias, ... from UTFSM
- * reports.bib:  Technical reports from UTFSM
- * licenses.bib: (Open source) licenses
- * url.bib:      Entries that have only a reference as a webpage. 
+The files contain:
+ * `theses.bib`:   Undergraduated and Master Theses (at [UTFSM](https://www.utfsm.cl))
+ * `csrg.bib`:     Publications
+ * `reports.bib`:  Technical reports
+ * `refs.bib`:     External references
+ * `url.bib`:      Webpage references.
+ * `licenses.bib`: Open source licenses
 
 
